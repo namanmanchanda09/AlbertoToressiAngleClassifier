@@ -1,7 +1,5 @@
 # Alberto Toressi Shoe Classification
 
-## Steps for the Shoe Type Classification Model.
-
 ### FASTENING TYPES
 1. SLIP-ON             
 2. LACE-UP             
